@@ -3,9 +3,9 @@
 
 # 3D Mesh Normalization and Quantization Analysis
 
-##Project Overview
+# Project Overview
 This project analyzes 3D mesh data to understand the effects of normalization and quantization on reconstruction quality.  
-We use two normalization methods — **Min–Max scaling** and **Unit-Sphere normalization** — and measure reconstruction error after quantization and dequantization.  
+I used two normalization methods — **Min–Max scaling** and **Unit-Sphere normalization** — and measure reconstruction error after quantization and dequantization.  
 Each `.obj` mesh is processed automatically, and results are stored in separate folders with error plots and reconstructed meshes.
 
 Running the Code
